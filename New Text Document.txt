@@ -1,0 +1,7 @@
+header.site-header {
+    background: linear-gradient(45deg, rgba(12,33,255,1) 0%, rgba(251,7,156,1) 50%, rgba(252,197,69,1) 100%);
+}
+
+.main-navigation {
+    background: none
+}
